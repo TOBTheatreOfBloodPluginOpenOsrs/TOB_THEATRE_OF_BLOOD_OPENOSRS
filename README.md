@@ -13,7 +13,7 @@ How to add this plugin to OpenOSRS
 
 
 
-Inferno Zuk Practice Plugin OpenORS Images
+TOB Theatre OF BLOOD PLUGIN OpenORS Images
 
 Stay alive for every while you enjoy a break. 
 
