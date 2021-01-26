@@ -18,7 +18,7 @@ Inferno Zuk Practice Plugin OpenORS Images
 Stay alive for every while you enjoy a break. 
 
 Get the Best ALL IN ONE PLUGIN FOR TOB
-![TheatrePluginImage](https://i.imgur.com/4uvKS1e.gif)
+![TheatrePluginImage](https://i.imgur.com/g97KJdD.gif)
 
 
 Plugin Description. This openosrs plugin helps you easily defeat TOB. Copyright © Open ...
