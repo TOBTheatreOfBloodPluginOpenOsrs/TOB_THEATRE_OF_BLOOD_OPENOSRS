@@ -1,18 +1,1 @@
-[
-   { 
-      "projectUrl":"https://github.com/TOBTheatreOfBloodPluginOpenOsrs/TOB_THEATRE_OF_BLOOD_OPENOSRS",
-      "provider":"OpenOSRS",
-      "name":"Theatre Of Blood",
-      "description":"All-in-one plugin for Theatre of Blood",
-      "id":"theatre-plugin",
-      "releases":[ 
-         { 
-            "date":"2021-27-01",
-            "sha512sum":"2A80B70D111B18166181DF382CDCB9F34526F92802C125861ED3C8B6E598B1C04EC564A9DD0B8285821D7CEB562EBFFFCA4F6CCC0045E50905384A9C4A2A1CE2",
-            "version":"0.0.1",
-            "url":"https://github.com/TOBTheatreOfBloodPluginOpenOsrs/TOB_THEATRE_OF_BLOOD_OPENOSRS/blob/main/release/theatre-0.0.1.jar?raw=true",
-            "requires":"0.0.1"
-         }
-      ]
-   }
-]
+[{"projectUrl":"https://github.com/TOBTheatreOfBloodPluginOpenOsrs/TOB_THEATRE_OF_BLOOD_OPENOSRS","provider":"OpenOSRS","name":"Theatre Of Blood","description":"All-in-one plugin for Theatre of Blood","id":"theatre-plugin","releases":[{"date":"2021-27-01","sha512sum":"2A80B70D111B18166181DF382CDCB9F34526F92802C125861ED3C8B6E598B1C04EC564A9DD0B8285821D7CEB562EBFFFCA4F6CCC0045E50905384A9C4A2A1CE2","version":"0.0.1","url":"https://github.com/TOBTheatreOfBloodPluginOpenOsrs/TOB_THEATRE_OF_BLOOD_OPENOSRS/blob/main/release/theatre-0.0.1.jar?raw=true","requires":"0.0.1"}]}]
